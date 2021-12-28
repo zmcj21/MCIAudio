@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClInclude Include="..\include\MCIAudio.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="example.cpp" />
+  </ItemGroup>
 </Project>
